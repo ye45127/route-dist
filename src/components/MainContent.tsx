@@ -62,7 +62,7 @@ interface Article {
               id: 3,
               title: "CSS Grid 入门",
               date: "2026-04-02",
-              author: "叶凯文",
+              author: "张三",
               contentSections: [
                 {
                   title: "什么是Grid布局？",
