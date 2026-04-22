@@ -52,10 +52,10 @@ const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
         <div className={styles.authorInfo}>
           <img
             src={pzPng}
-            alt="张三"
+            alt="ye"
             className={styles.avatar}
           />
-          <p>张三，普通大学生</p>
+          <p>ye,人才</p>
         </div>
       </section>
       {/* 在某个位置显示当前时间，作为演示 */}
